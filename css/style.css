@@ -1,3 +1,4 @@
+
 body {
     background-image: url('../img/simpsons-pc-2kyt75wm1lmjl2l8.jpg');
     background-size: cover;
@@ -17,6 +18,8 @@ body {
     width: 30%;
     text-align: center;
     float: left;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
 }
 
 img{
@@ -39,20 +42,43 @@ a{
     background-color: rgba(242, 255, 255, 0.926);
     width: 65%;
     float: right;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
 }
 
 .table-fisrt{
     margin-left: 5px;
     float: left;
     width: 48%;
-    border: 5px solid rgb(2, 2, 2);
+    border: 3px solid rgb(74, 211, 90);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
 }
 .table-secound{
     margin-right: 7px;
     float: right;
     width: 48%;
-    border: 5px solid rgb(2, 2, 2);
+    border: 3px solid rgb(74, 211, 90);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
 }
 h1, h3{
     text-align: center;
+}
+
+#night-input, #morning-input{
+    margin-left: 20%;
+}
+
+button{
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #0056b3;
 }

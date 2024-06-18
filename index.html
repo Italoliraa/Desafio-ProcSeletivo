@@ -14,7 +14,7 @@
         <div id="fisrt"> <!--Início do conteúdo-->
 
             <div class="menu"> <!--Início do menu-->
-
+                <br>
                 <img src="img/Captura de tela 2024-06-17 213254.png" alt="">
 
                 <h3>Italo Lira</h3>
@@ -41,8 +41,10 @@
 
                 <div class="table-fisrt">
                     <h3>Planning morning</h3>
+                    <input type="text" id="morning-input" placeholder="Add a task">
+                    <button onclick="addTask('morning')">Add</button>
 
-                     <ol>
+                     <ol id="morning-list">
                         <strong>
                         <li>Caminhada matinal</li>
                         <li>Fazer exercícios físicos</li>
@@ -62,7 +64,6 @@
                         <li>Ir à academia</li>
                         <li>Fazer um curso online</li>
                         <li>Estudar um novo idioma</li>
-                        <li>Jogar um jogo de tabuleiro ou de cartas</li>
                         <li>Escrever em um diário</li>
                         <li>Pintar ou desenhar</li>
                         <li>Fazer uma aula de dança</li>
@@ -74,8 +75,10 @@
 
                 <div class="table-secound">
                     <h3>Planning night</h3>
+                    <input type="text" id="night-input" placeholder="Add a task">
+                    <button onclick="addTask('night')">Add</button>
 
-                <ol>
+                <ol id="night-list">
                     <strong>
                     <li>Assistir ao pôr do sol</li>
                     <li>Jantar fora em um restaurante</li>
@@ -84,7 +87,6 @@
                     <li>Ir a um bar ou clube noturno</li>
                     <li>Fazer um passeio noturno</li>
                     <li>Assistir a um show ao vivo</li>
-                    <li>Participar de um jogo ou evento esportivo</li>
                     <li>Observar as estrelas</li>
                     <li>Fazer uma caminhada à luz da lua</li>
                     <li>Jogar jogos de tabuleiro ou videogames</li>
@@ -101,7 +103,6 @@
                     <li>Planejar o dia seguinte</li>
                     <li>Ouvir música relaxante</li>
                     <li>Fazer um passeio de carro</li>
-                    <li>Participar de um grupo de estudo ou clube de leitura</li>
                     </strong>
                 </ol>
                 </div>
@@ -114,6 +115,8 @@
 
 
     </div> <!--Fim do container-->
+
+    <script src="js/script.js"></script>
     
 </body>
 </html>
