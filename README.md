@@ -14,6 +14,15 @@ lado a lado. Em cada tabela, crie uma lista ordenada com tarefas genéricas a se
 durante uma rotina.
 ---
 
-### O layout que eu desenvolvi
+# O layout que eu desenvolvi
 
 ![Captura de tela 2024-06-18 211404](https://github.com/Italoliraa/Desafio-ProcSeletivo/assets/143004026/724777f5-3bb7-4868-9aa8-d3a8515336c4)
+
+### Tecnologias
+* HTML.
+* CSS.
+* JAVASCRIPT.
+* ChatGpt: Usei essa ferramenta apenas para desenvolver a parte do JavaScript.
+---
+## Vamos ser amigos?
+Ln: https://www.linkedin.com/in/italo-lira-281028246/
