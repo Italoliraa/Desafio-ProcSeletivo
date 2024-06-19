@@ -1,4 +1,12 @@
-# Desafio: Aceleradora Ágil
+<div align="center">
+<img src="https://github.com/Italoliraa/Desafio-ProcSeletivo/assets/143004026/0b9aafcd-7f3b-4b28-9922-2b91ac0e8e8e)" width="250px">
+</div>
+
+---
+
+Participar do desafio proposto pela Aceleradora Ágil foi uma experiência extremamente gratificante, e estou muito feliz por ter conseguido superá-lo com sucesso!
+
+---
 
 ### HTML/CSS
 * Crie um layout de largura e altura variável de acordo com o conteúdo da página, dividido em duas
